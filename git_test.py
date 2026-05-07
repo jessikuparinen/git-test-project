@@ -19,4 +19,10 @@ print("alas nyt toimimaan")
 
 
 
+print("DEVELOPMENT VERSION")
+
+
+
+
+
 print("MAIN VERSION")
